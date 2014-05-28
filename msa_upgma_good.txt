@@ -1,0 +1,52 @@
+Gor_Western cc-aagtattag-ctaacccatca-ataattatc-atgtatatcgtgcatcactgccagacaccatgaataatgtacggt
+Gor_Eastern cctaagtattag-ttaacccacca-ataattgtc-atgtatttcgtgcattactgccagccaccatgaataatgtacggt
+Gor_Mountai cc-aagtattag-ttaacccacca-ataattgtc-atgtatgtcgtgcattactgccagccaccatgaataatgtacagt
+Orangu_Jari cc--aatact-gac--c--cattt-ctaacggcctatgtatttcgtacattcctgctagccaacatgaatatcacccaac
+Orangu_Puti cc--agtact-gac--c--cattt-ctaacggcctatgtatttcgtacattcctgctagccaacatgaatatcacccaac
+Chimp_Trogl cctaagtatt-ggcctattcatta-c-aaccg-ctatgtatttcgtacattactgccagccaccatgaatattgtacagt
+Chimp_Schew cctaagtatt-ggcttattcatta-c-aaccg-ctatgtatttcgtacattactgccagccaccatgaatattgtacagt
+Chimp_Verus cctaagtact-ggctcattcatta-c-aaccg-gtatgtacttcgtacattactgccagtcaccatgaatattgtacagt
+Chimp_Velle cctaagtact-ggctcattcatta-c-aaccg-ctatgtatttcgtacattactgccagccaccatgaatattgtacagt
+Europ_human cc-aagtatt-gacttacccatcaac-aaccg-ctatgtatttcgtacattactgccagccaccatgaatattgcacggt
+Neanthe_Rus cc-aagtatt-gactcacccatcaac-aaccg-ccatgtatttcgtacattactgccagccaccatgaatattgtacagt
+Neanthe_Ger cc-aagtatt-gactcacccatcagc-aaccg-ctatgtatctcgtacattactgttagttaccatgaatattgtacagt
+
+Gor_Western accataaacgc-ccaatcacctgtagcacatac-aacc-cc----cc-ccttc--c-ccccc---ccc--gcattgccca
+Gor_Eastern accataaacactcc-ctcacctataatacat---ta-c-cc----cc-cc-tca-c-ccccca-tcccttgcccacccca
+Gor_Mountai accacaaacactcc-cccacctataatacat---ta-c-cc----cc-cc-tca-c-cccccattccc-tgctcacccca
+Orangu_Jari acaacaatcgcttaacc-aactataatgcatacaaaactccaa--ccacactcg-a-cctcca-caccccgctta---ca
+Orangu_Puti acaacaatcgcttaacc-aactataatgcatacaaaactccaa--ccacactcg-a-cctcca-caccccgctta---ca
+Chimp_Trogl actataaccactcaact-acctataatacat--taagc-ccacccccaca-ttacaacctcca-ccctatgctta---ca
+Chimp_Schew actataatcactcaact-acctataatacat--caaac-cca-ccccaca-ttacaacctcca-ccctatgctta---ca
+Chimp_Verus accataatcacccaact-acctataatacat--aaaat-ccactcccaca-ccaaaaccttca-ccccatgctta---ca
+Chimp_Velle accacaatcactcaact-acctataatacat--aaaac-ccacccccaca-tcaaaacctcca-ccccatgctta---ca
+Europ_human accataaatacttgacc-acctgtagtacata-aaaac-ccaat-ccaca-tcaaaaccccct-ccccatgctta---ca
+Neanthe_Rus accataattacttgact-acctgtaatacata-aaaac-ctaat-ccaca-tcaacccccccc-ccccatgctta---ca
+Neanthe_Ger accataattacttgact-acctgcagtacata-aaaac-ctaat-ccaca-tcaaaccccccc-ccccatgctta---ca
+
+Gor_Western acggaa-t-acnaaataaccca--tccctc-acaaaaagtacataaca-c-ataagatcatttatcg-cacatagcacat
+Gor_Eastern acagca-t-accaactaaccta--cccctctac-aaaagtacatagta-c-ataaaatcatttaccgtc-catagcacat
+Gor_Mountai acggca-t-accaaccaacctat-cccctc-ac-aaaagtacataata-c-ataaaatcatttaccgtc-catagtacat
+Orangu_Jari a--gcaagtac-c-c-cccc-atgcccccccacccaaa-cacatac-accgatctctccacata--acc-cct-caaccc
+Orangu_Puti a--gcaagtac-c-c-cccc-atgcccccccacccaaa-cacatac-accgatctctccacata--acc-cct-caaccc
+Chimp_Trogl a--gcacgcac-aac-aatc-a--acccccaactgtca-cacataa-aat-gcaactccaaaga-cacc-cct-c-tccc
+Chimp_Schew a--gcacgcac-aac-aatt-a--accctcaactgtca-cacataa-aac-acaactccaaaga-catt-cct-c-cccc
+Chimp_Verus a--gcacgcac-aac-aatc-a--acctccaactgtca-aacataa-aac-acaactccaacga-cacc-cct-c-cccc
+Chimp_Velle a--gcatgcac-aac-aatc-a--acccccaactgtcg-aacataa-aac-acaactccaacga-catt-cct---accc
+Europ_human a--gcaagtac-agc-aatc-a--accctcaactatca-cacatca-act-gcaactccaaagc-cacc-cct-c-accc
+Neanthe_Rus a--gcaagcac-agc-aatc-a--accttcaactgtca-tacatca-act-acaactccaaaga-cacc-cttac-accc
+Neanthe_Ger a--gcaagcac-agc-aatc-a--accttcaactgtca-tacatca-act-acaactccaaaga-cgcc-cttac-accc
+
+Gor_Western ccca-g-tta-aatca--ccnt-cgt-c-ccc-acggatgccccccctcaga-t-gggaat--cccttgaacaccatcc-
+Gor_Eastern tcca-g-tta-aacca-tcc-t-cgc-c-ccc-acggatgccccccctcaga-taggg-gt--cccttaaacaccatcc-
+Gor_Mountai tcca-g-tta-aacca-tcc-t-cgc-c-ccc-acggatgccccccttcaga-taggg-at--cccttaaacaccatcc-
+Orangu_Jari cc-a-gcatatcaacagaccaaacaaac-cttaa-ag-tacatagc-acatacta--tccta-accgcacatagca-ca-
+Orangu_Puti cc-a-gcatatcaacagaccaaacaaac-cttaa-ag-tacatagc-acatacta--tccta-accgcacatagca-ca-
+Chimp_Trogl accccg-ataccaacaaacctat-gcccttttaacag-tacatagt-acatac-a-gccgtacatcgcacatagca-cat
+Chimp_Schew accccg-ataccaacagacctat-actctcttaacag-tacatagt-acatac-a-accgtacaccatacatagca-cat
+Chimp_Verus accccg-ataccaacagaccta-ccccc-cttgacag-aacatagt-acatac-a-atcatacaccgtacatagca-cat
+Chimp_Velle actccg-ataccaacagacttattcctc-cttaatag-gacatagc-acatac-a-atcacacaccgtacatagca-cat
+Europ_human actagg-ataccaacaaaccta-cccacccttaacag-tacatagt-acataa-a-gccatttaccgtacatagca-cat
+Neanthe_Rus actagg-atatcaacaaaccta-cccacccttgacag-tacatagc-acataa-a-gtcatttaccgtacatagca-cat
+Neanthe_Ger actagg-atatcaacaaaccta-cccacccttgacag-tacatagc-acataa-a-gtcatttaccgtacatagca-cat
+
